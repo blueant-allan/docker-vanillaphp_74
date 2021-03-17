@@ -7,7 +7,7 @@ Stack
 * Nginx
 * PHP-FPM 
 * PHP version 7.4
-* CakePHP vesion 4.x
+
 
 Loaded PHP Extensions
 
